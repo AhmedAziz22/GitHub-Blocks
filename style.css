@@ -1,0 +1,30 @@
+h1{color: gray;
+    text-align: center;
+}
+#First{
+    background-color:rgb(235, 245, 241);
+    height: 200px;
+    width: 1500px;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+#Second{
+    background-color: red;
+    height: 200px;
+    width: 1500px;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+#Third{
+    background-color: royalblue;
+    height: 200px;
+    width: 1500px;
+    display: flex;
+    justify-content: space-around;
+}
+img{
+    width: 200px;
+}
